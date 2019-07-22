@@ -1,3 +1,4 @@
+//note this program has some issue not running please check.
 bool isBST(Node* root) {
     // Your code here
    if(!root || (!root->left && !root->right))
